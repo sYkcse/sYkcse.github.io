@@ -1,19 +1,25 @@
 ---
 layout: post
-title: "The Sound of Freedom"
-date: 2015-01-09
-backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
-category: music
-tags: relax fun songs playlist
+title: "DEPARTURE"
+date: 2019-07-31
+backgrounds: 
+![KakaoTalk_20190809_152324190.jpg](C:\Users\Administrator\Desktop\KakaoTalk_20190809_152324190.jpg)
+
+tags: `Beginning to a New World`
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
+Wednesday 31th of July, 2019
 
-Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+I was so nervous. Because this trip was an overseas trip for the first time in five years.
 
-![Sample Image](http://placehold.it/360x360)
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+![KakaoTalk_20190809_162425615.jpg](C:\Users\Administrator\Desktop\KakaoTalk_20190809_162425615.jpg)
+
+## In Flight
+
+You should take a deep nap in flight. Because you need Parallax adaptation.
+
+
+![KakaoTalk_20190809_165723384.jpg](C:\Users\Administrator\Desktop\KakaoTalk_20190809_165723384.jpg)
+
+And..I advise you to take slipper(which is laid at your flight) into your hotel. In U.S, the floor is carpeted.
