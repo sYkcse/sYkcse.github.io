@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "DEPARTURE"
+title: "departure"
 date: 2019-07-31
-backgrounds: 
-![KakaoTalk_20190809_152324190.jpg](C:\Users\Administrator\Desktop\KakaoTalk_20190809_152324190.jpg)
+backgrounds: ![KakaoTalk_20190809_152324190.jpg](C:\Users\Administrator\Desktop\KakaoTalk_20190809_152324190.jpg)
 
 tags: `Beginning to a New World`
 ---
