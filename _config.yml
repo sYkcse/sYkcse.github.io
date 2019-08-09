@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Trip to Silicon Valley!
+description: 'is a tralvelogue. My experience with Silicon Valley is here.  I wish all of my visitors get some inspiration here.  '
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://yourdomain.com' # the base hostname & protocol for your site
